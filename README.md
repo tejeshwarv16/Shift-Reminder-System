@@ -47,6 +47,7 @@ This project is a minimalist web application designed to help my faculty members
     ```bash
     pip install Flask google-generativeai python-dotenv opencv-python Pillow twilio
     ```
+    you can get your gemini api key : `https://aistudio.google.com/`
 
 ## Usage
 
