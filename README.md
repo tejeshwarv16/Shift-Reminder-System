@@ -31,7 +31,7 @@ This project is a minimalist web application designed to help my faculty members
 
     ```bash
     git clone https://github.com/tejeshwarv16/Shift-Reminder-System
-    cd faculty-shift-reminder
+    cd shift-reminder-system
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
